@@ -1,4 +1,4 @@
-# GIREESH — cinematic portfolio
+# MADHU — cinematic portfolio
 
 Two scenes so far, both WebGL, no frameworks and no build step.
 
