@@ -3,7 +3,7 @@
 Two scenes so far, both WebGL, no frameworks and no build step.
 
 **Scene 1 — the opening.** Black screen → the man walks out of the dark → the
-GIREESH wordmark materialises behind him → chips, arrows and dots snap into
+MADHU wordmark materialises behind him → chips, arrows and dots snap into
 place → header draws itself in → the composition settles and breathes.
 
 **Scene 2 — the creative universe.** The supplied film, played as the section:
